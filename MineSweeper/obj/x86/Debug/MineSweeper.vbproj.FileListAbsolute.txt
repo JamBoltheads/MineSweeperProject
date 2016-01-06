@@ -1,0 +1,13 @@
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.Resources.resources
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.vbproj.GenerateResource.Cache
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.Main.resources
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.LoadForm.resources
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\bin\Debug\MineSweeper.xml
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.exe
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.xml
+C:\Users\James\AppData\Local\Temporary Projects\MineSweeper\obj\x86\Debug\MineSweeper.pdb
+C:\Users\James\Documents\PRograms\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.exe
+C:\Users\James\Documents\PRograms\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.xml
+C:\Users\James\Documents\PRograms\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.pdb
